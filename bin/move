@@ -12,3 +12,4 @@ num = gets.strip
 
 input_to_index(num)
 
+move(board, num, char = "X")
