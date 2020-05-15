@@ -16,7 +16,7 @@ index = gets.strip
 
 move(board, index, char = "X")
 
-
+display_board(board)
 
 
 
