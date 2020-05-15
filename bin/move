@@ -14,4 +14,4 @@ input_to_index(input)
 
 index = input
 
-
+index = gets.strip
